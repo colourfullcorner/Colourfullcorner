@@ -4,7 +4,7 @@
 
 // ---- CONFIGURE YOUR CONTACT DETAILS HERE ----
 const CONFIG = {
-  whatsappNumber: "+8801679317465",     // full number, no + or spaces
+  whatsappNumber: "8801610743543",     // full number, no + or spaces
   messengerUsername: "colourfullcorner" // your Facebook Page/Messenger username
 };
 
